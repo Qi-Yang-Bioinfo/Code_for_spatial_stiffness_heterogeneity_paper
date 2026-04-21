@@ -24,7 +24,7 @@ The scripts have been written in **R** and tested on **Linux (Ubuntu 22.04.5 LTS
 * `Seurat` (v5.0+)
 * `DoubletFinder` (v2.0.4)
 * `CytoTRACE` (v0.3.3, requires Python environment setup)
-Installation of dependencies should be completed in about 30 minutes with a good internet connection.
+* Installation of dependencies should be completed in about 30 minutes with a good internet connection.
 
 ---
 
